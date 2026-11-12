@@ -1,0 +1,6 @@
+{
+  "name": "Rahul Singh Rathore | Author & Sadhak",
+  "description": "आधिकारिक वेबसाइट - राहुल सिंह राठौड़ (लेखक, भारतविद् एवं साधक)। 5 आध्यात्मिक पुस्तकों एवं सनातन चिंतन का संगम।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
